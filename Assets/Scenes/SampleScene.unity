@@ -670,9 +670,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7807da1282554fac9d5fcef6519cfbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Mover
-  xValue: 0
-  yValue: 0
-  zValue: 0.1
+  xModifier: 10
+  zModifier: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
