@@ -3,7 +3,7 @@ using UnityEngine;
 public class Mover : MonoBehaviour
 {
     float xValue = 0f;
-    float yValue = 0.02f;
+    [SerializeField] float yValue = 0.02f;
     float zValue = 0f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
